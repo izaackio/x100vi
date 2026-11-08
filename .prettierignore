@@ -1,0 +1,11 @@
+**/.next/**
+node_modules/**
+.pnpm-store/**
+.pnpm-cache/**
+.env*
+pnpm-lock.yaml
+**/*.sql
+**/next-env.d.ts
+**/AGENTS.md
+playwright-report/**
+test-results/**
